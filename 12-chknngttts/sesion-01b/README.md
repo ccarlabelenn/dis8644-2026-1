@@ -1,1 +1,120 @@
 # sesion-01b
+
+- ## Protoboard
+  - Que es una protoboard?
+    - Las protoboard o breadboard es un aparato que sirve para proyectos de electricos
+      - La gracia es que no se necesita soldar inmediatamente para ver si tu circuito funciona
+  - Las protoboard están compuestas por 4 secciones
+    - 2 Secciones de corriente horizontales a los costados extremos
+      - Estas barras de corriente horizontales corren por el largo total de la placa sin separaciones
+        - Y tienen 2 lados
+          - Uno positivo (+) y otro negativo (-)
+    - Y 2 secciones centrales verticales de conexción
+      - Estas son varias barritas paralelas que se extienden hacia el centro de la placa
+        - No estan conectadas entre sí, por lo que para que se comuniquen entre ellas hay que unirlas por cable
+    - Todas estas lineas de cobre/estaño/fósforo están encapsuladas en una carcasa de plastico que encapsula la placa entera
+      - Para hacer efectiva la gracia de no necesitar soldadura, la carcasa cuenta con orificios a lo largo de la parte superiór
+        - Las placas de 400 orificios suelen contar con 100 a lo largo de las barras de corriente y 300 (150 en cada sección) para las barras de conexción
+       
+- ### Mini test protoboard
+  - Para el test de las protoboard usamos:
+    - 1 Luz LED
+      - Existen algunos metodos para poder identificar la parte positiva y negativa
+        - Una manera es identificarlo por la longitud de las patas metalicas para contectar
+          - La más larga es positiva y la más corta es negativa
+          - Otra manera es con el interiór
+            - La pieza más grande es negativa, por lo que la más chica es positiva
+          - Una ultima es con el plastico del LED
+            - Si uno lo siente, hay una parte plana
+              - Esa es negativa
+    - 1 Bateria de 9V
+    - 1 Conector para la bateria
+      - Con un cable positivo (rojo)
+      - Y uno negativo (negro)
+    - Cables Dupont para conectar los componentes y barras entre sí
+    - 1 Resistor
+      - Esto permite "controlar" la cantidad de corriente que llega a la luz LED
+        - De no ser por el resistor, el circuito probablemente se quemaría y la LED dejaria de funcionar
+       
+    (FOTO DE PROTOBOARD CLASE)
+
+
+- ## The Internet's Own Boy - Documental de Aaron Swartz
+  - Brian Knappenberger (Director)
+    - 2014 (Fecha de estreno)
+  - Aaron Swartz era un genio de la computación y era admirado por muchos
+  - Era un niño muy dotado a temprana edad
+    - Su padre le mostró los computadores cuando era muy joven
+      - Le gustaba mucho el internet
+      - Empezó a hacer programas
+        - El primero siendo un juego de trivia sobre Star Wars
+      - Para el, programar siempre podia resolver problemas
+  - Hizo una página a los 12
+    - "The Info Network"
+      - Donde la gente podia añadir/leer información
+        - Una especia de wikipedia
+    - "Share your knowledge"
+    - Gana un premio de Cambridge
+  - Empieza a trabajar en RSS
+    - RSS (Really Simple Syndication) es una especie de "subscripción" a paginas web que te notifica cuando hay actualizaciónes
+      - Como notificaciónes de tu celular para estar al tanto
+    - Tim Berners-Lee
+      - Creador del WWW dice:
+        - "Aaron queria hacer funcionar al mundo"
+    - No le gustaba el colegio
+      - No encajaba y o le interesaba
+      - Empezó a questionar todo
+    - Odiaba el copyright
+      - Empezó a trabajar con Lawrence Lessig para implementar CC (Creative Commons) en el internet
+        - CC siendo una forma de Copyright donde los dueños de cierta creación pueden dar algunos permisos al publico
+      - Aaron tomó el rol de crear la estructura digital para CC
+    - 2004, Aaron entra la universidad de Standford
+      - Tenia problemas de salud que afectaban su rendimiento y experiencia universitaria
+      - Al año, le ofrecen una practica en un start-up llamado Y-Combinator
+    - Steve Huffman y Alexis Ohanian necesitan ayuda con un proyecto
+      - Aaron decide unir su start-up con el de Steve y Alexis
+        - Crean Reddit
+          - Explota en popularidad
+            - Un conglomerado de ofrecen compralo por más de 1 million de dolares
+              - En ese momento Aaron tenia 19 o 20 años
+              - Odia trabajar para el conglomerado
+                - Renuncia a su trabajo de coorporación
+    - No le interesa el dinero, quiere cambiar/arreglar el mundo
+      - Muy optimista sobre la vida
+    - Crea Watchdog.net y OpenLibrary.org
+      - Crea esto para hacer más accesible el dominio publico
+    - PACER
+      - Public Access to Court Electronic Records
+        - Carl Malamud odia PACER
+          - Es una pagina horrible que no permite ver documentos que son supuestamente publicos
+        - Malamud crea un sistema para subir archivos de PACER a una pagina que la gente los pueda ver de manera gratuita
+        - Aaron mejora un script de un amigo en una conferencia que permite descargar archivos de PACER en el trial gratiuto
+          - Termina descargando mas de 700gb de documentos
+            - 20 milliones de paginas aprx
+          - La FBI empieza a investigar a Aaron y sus compañeros
+    - Se empieza a interesarse más en otros problemas de la politica
+      - Le atrae "jstore"
+        - Una pagina que vende articulos/publicaciónes/investigaciónes de ciencia y otros campos
+        - Decide hacer algo al respecto
+          - Crea un script en Python para descargar los articulos de manera gratiuta
+            - Termina conectando su laptop a los servidores de MIT (quienes tenian acceso a los documentos de jstore) con un hard drive para descargar todo lo que podía
+              - Autoridades encuentran su laptop e instalan una camara en la pieza para tener más evidencia
+                - Lo graban utilizando el laptop y lo arrestan en la calle
+    - Está en arresto domiciliario sincomputador
+      - Lo acusan de delitos por lo hecho con jstore
+    - SOPA (Stop Online Piracy Act)
+      - Un proyecto de ley para detener la pirateria online
+        - Aaron está en contra de SOPA
+          - "A vote for SOPA is a vote for censorship"
+          - Empezó una campaña contra SOPA
+            - Logran ganar contra SOPA y se elimina el proyecto
+    - Swartz empieza a preocuparse por el espionaje digital por el gobierno
+      - Por avances de leyes sobre el internet y hackers, Aaron se enfrenta a muchas más delitos que antes
+        - Niega las acusaciones y va a juico para defenderse
+    - Musica!!! (?)
+    - Aaron se mata
+      - Nadie entiende muy bien por qué
+      - El impacto de esto lleva a cambio de leyes del internet, acceso a documentos publicos y más
+        - Uno siendo un avanze que detecta el cancer de pancreas desarrollado por un niño tras leer articulos en jstore
+       
+(falta cierre mejor idk)
