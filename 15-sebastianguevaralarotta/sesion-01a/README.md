@@ -4,19 +4,11 @@
 
 ## SISTERS WITH TRANSISTORS - APUNTES.
 
--Música digital – vanguardista
+-Música digital – vanguardista -Clara Rockmore → tocaba este inst.
 
--Clara Rockmore → tocaba este inst.
+-Tocaba un instrumento que no se toca -Deva Durbishire 1965
 
--Tocaba un instrumento que no se toca
-
--Deva Durbishire 1965
-
--Es quien usa sonidos con Tecnologías
-
--Electrónica – sonidos Bosicos
-
- -Personaje Seleccionado. 
+-Es quien usa sonidos con Tecnologías -Electrónica – sonidos Bosicos 
 
 ### Clara Rockmore (1911 – 1998)
 
