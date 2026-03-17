@@ -34,7 +34,7 @@ Ejemplo: Si quito "R5", solo se apaga "D3". El resto se mantiene encendida.
 | R3                    |       |       |       |       |
 | R4                    |       |       |       |       |
 | R2                    |       |       |       |       |
-| R5                    |    0  |   0   |  1    |   0   |
+| R5                    |    1  |   0   |  0    |   1   |
 
 ### Ejercicio 2
 
