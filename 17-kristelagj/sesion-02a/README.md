@@ -44,10 +44,17 @@ No existe ningún material que no tenga resistencia. Los científicos han realiz
 
 Las resistencias tienen un codigo de color ya que a traves de este metodo podemos saber cuanta resistenbcia tiene. Nosotros en nuestro caso tenemos de 220 Ω y 1k
 
-Los dos primeros colores son digitos (estos entregados a partir de una tabla que contiene estos datos) 
+- Los dos primeros colores son digitos (estos entregados a partir de una tabla que contiene estos datos) 
+- La tercera barrita son la cantidad de 0 que tiene
+- El color dorado es el margen de error o tolerancia.
 
-La tercera barrita son la cantidad de 0 que tiene
+calculadora de resistencia https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code 
 
-El color dorado es el margen de error o tolerancia.
+Electrodos: aplicación para teléfono
+
+**Esquemático:** Representan de manera gráfica y abstracta el circuito
+
+
+
 
 
