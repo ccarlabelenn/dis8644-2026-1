@@ -149,7 +149,15 @@ Radio-Aktivität ( 1975)
 + La primera vez que se utilizaron exclusivamente instrumentos electrónicos
 + Portad: Volksempfänger, unos de los instrumentos mas ocupados en la propaganda nazi 
 + Dentro de cada album venia un sticker con el símbolo de radiactividad 
+Portada
 
+![Radio-Aktivität](https://github.com/paulafuentesm/dis8644-2026-1/blob/c4663372a69bb0da58e0f6650313e3b1ad0cd6aa/13-paulafuentesm/sesion-02a/imagenes/Radio-Aktivit%C3%A4t.jpg)
+
+Imagen:Portada-Fuente: Wikipedia
+
+![Volksempfänger](https://github.com/paulafuentesm/dis8644-2026-1/blob/1ff4f9cf17fb39086f3288f5ed5bb1752f851715/13-paulafuentesm/sesion-02a/imagenes/Volksempf%C3%A4nger.jpg)
+
+Imagen: Volksempfänger-Fuentes: Wikipedia
 
 Tema central sobre la radiactividad, la energía nuclear y la radio- medios de difución, mezclando ciencia ( energia nuclear), tecnología y el contexto histórico de la época. El disco juega con el doble significado de la palabra “radio”: por un lado la radioactividad nuclear y por otro la radio como medio de comunicación, mezclando tambieen caracteres de Alemania y EE UU.
 
@@ -163,4 +171,24 @@ Musicalmente, el álbum mezcla sonidos electrónicos tranquilos para despues emp
 
 Cancion que empieza con voces repientod el titul, el cual es una referencia a diferentes cancioens con este mismo dicho, que representa, el cuidado del hogar y la felcidad de llegar denuevo a el, siendo ironico, representando la destruccion de energia nucliar, tambien se hacer refencia a la medida que se ocupan para la energia que es el OHM, la melodia con tonos tranqilos que van aumentando su ritmo hasta que van desapareciendo al rrerminar el album. 
 
-LCD Soundsystem.
+***LCD Soundsystem.***
+
+Sound of Silver ( 2008)
+
++ cambios tecnologicos, y vida urbana
++ la portada muestra como una camara pero no estoy segura
+
+![Sound-of-Silver](https://github.com/paulafuentesm/dis8644-2026-1/blob/667be58cd02dc5bb27014d6ace18a7137edf257c/13-paulafuentesm/sesion-02a/imagenes/Sound-of-Silver.jpg)
+
+Imagen: Portada-Fuentes: Wikipedia
+
+El álbum contiene tonos animados. con ritmos y sonidos que vibran y percusiones continuas, que contrasta con la característica de las canciones del álbum: el paso del tiempo, la amistad y el envejecimiento dentro de la vida urbana.( mayormente en New York, I Love You but You're Bringing Me Down)
+
+
+El álbum retrata la vida urbana de los años 2000, mencionando los cambios tecnológicos, la falta de cultura  y el ritmo acelerado de las ciudades. A través de sus canciones se habla de la rutina, la presión social y la búsqueda de identidad dentro de un entorno dominado por el consumo, la inmediatez y la vida nocturna.
+
+***Cancion Destacada: North American Scum***
+
+mira exterior y los estereotipos que tienen las personas de EEUU, su falta de cultura y como se influye esto en el exterior. 
+El disco combina nostalgia, crítica al consumismo y cómo afecta sobre la vida moderna, todo envuelto en música que invita a bailar al sonidos rapidos y fuertes, similar a vida que se muestra en la letras que cantan.
+
