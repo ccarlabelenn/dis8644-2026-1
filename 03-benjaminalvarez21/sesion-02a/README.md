@@ -74,6 +74,8 @@ Cuero
 
 ### Ejercicio 1
 
+![primer ejercicio](./imagenes/Ejercicio_1.jpeg)
+
 | Protoboard | D1 | D2 | D3 | D4 |
 | :--- | :---: | :---: | :---: | ---: |
 | R1 | 0 | 0 | 0 | 0 |
@@ -82,3 +84,10 @@ Cuero
 | R4 | 1 | 1 | 1 | 0 |
 | R5 | 1 | 0 | 0 | 1 |
 
+### Ejercicio 2
+
+![segundo ejercicio](./imagenes/Ejercicio_2.jpeg)
+
+### Ejercicio 3
+
+![tercer ejercicio](./imagenes/Ejercicio_3.jpeg)
