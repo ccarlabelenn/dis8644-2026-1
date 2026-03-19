@@ -3,6 +3,76 @@ Martes 17 de marzo
 
 ---
 
+## Encargo protoboard en colaboracion con mi compañero Angel Sabogal para desarrollar esta parte del encargo ya que no tengo el protoboard
+
+### Ejercicio 1
+
+#### *Componentes usados*
+* 3 resistencias 220
+* 1 resistencia 1k
+* 6 jumpers
+* Alimentacion
+* 4 leds
+
+| Protoboard | D1 | D2 | D3 | D4 |
+| :--- | :---: | :---: | :---: | ---: |
+| R1 | 0 | 0 | 0 | 0 |
+| R2 | 0 | 0 | 0 | 0 |
+| R3 | 1 | 1 | 0 | 1 |
+| R4 | 1 | 1 | 1 | 0 |
+| R5 | 1 | 1 | 1 | 0 |
+
+#### *Prueba*
+
+![Ejercicio1](./imagenes/ejercicio1.png)
+
+### Ejercicio 2
+
+#### *Componentes usados*
+* 4 resistencias 220
+* 3 resistencia 1k
+* 7 jumpers
+* Alimentacion
+* 3 leds
+
+| Protoboard | D1 | D2 | D3 |
+| :--- | :---: | :---: | ---: |
+| R1 | 1 | 0 | 1 |
+| R2 | 1 | 0 | 1 |
+| R3 | 1 | 0 | 1 |
+| R4 | 1 | 0 | 1 |
+| R5 | 0 | 1 | 1 |
+| R6 | 1 | 1 | 1 |
+| R7 | 1 | 1 | 1 |
+| R8 | 1 | 1 | 0 |
+
+#### *Prueba*
+
+![Ejercicio2](./imagenes/ejercicio2.png)
+
+### Ejercicio 3
+
+#### *Componentes usados*
+* 6 resistencias 220
+* 4 jumpers
+* Alimentacion
+* 3 leds
+
+| Protoboard | D1 | D2 | D3 | D4 |
+| :--- | :---: | :---: | :---: | ---: |
+| R1 | 1 | 1 | 1 | 1 |
+| R2 | 1 | 1 | 1 | 1 |
+| R3 | 0 | 0 | 0 | 0 |
+| R4 | 1 | 1 | 1 | 1 |
+| R5 | 1 | 1 | 1 | 1 |
+| R5 | 1 | 1 | 1 | 1 |
+
+
+#### *Prueba*
+
+![Ejercicio3](./imagenes/ejercicio3.png)
+
+
 ## Encargo album Kraftwerk - Die Mensch-Maschine
 Este album fue grabado de **1977 a 1978**, la portada está fuertemente inspirada en el **constructivismo ruso**, lo que me recuerda harto a las portadas de **Franz Ferdinand**. Curioso que la canción “Take Me Out” tenga un remix con **Daft Punk**, quienes, siento, tienen cierta inspiración y sonidos parecidos a **Kraftwerk**. Donde más siento esta inspiración es en el uso de **vocoder** y la **repetición constante** de una frase o palabra, en ambos siento cierto intento de **deshumanizar la voz** para conectar más con el concepto del álbum. Pese a que está inspirado en el constructivismo ruso, siento que el álbum tenga el enfoque futurista con los sonidos, hace que me recuerde a un estilo artístico llamado **atompunk**.
 
@@ -36,4 +106,3 @@ Disonantes. (2020, 18 de mayo). LCD Soundsystem y los 10 años de “This is Hap
 LCD Soundsystem. (2010). This Is Happening [Álbum]. DFA; Virgin.
 
 ---
-
