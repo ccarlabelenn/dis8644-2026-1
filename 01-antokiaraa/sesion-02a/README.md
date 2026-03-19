@@ -15,4 +15,12 @@ martes 17 de marzo
 
 ### Probando circuitos en clase
 
-![circuito armado](./imagenes/circuito.jpg)
+![circuito armado](./imagenes/primercircuito.jpg)
+
+---
+
+### Encargo: LQXTLC
+
+## Ejercicio 1
+
+![primer ejercicio](./imagenes/circuito.jpg)
