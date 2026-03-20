@@ -10,6 +10,6 @@ La Ley de Ohm, que relaciona el voltaje (V), la corriente (I) y la resistencia (
 
 ### Visualización de la Ley de Ohm
 
-![Ley de Ohm](img/ley-ohm.png)
+![Simulación Ley de Ohm](leydeohm.png)
 
-La imagen muestra una simulación de la Ley de Ohm, donde se puede observar cómo al variar la corriente (I) y la resistencia (R), cambia el voltaje (V), siguiendo la relación V = I · R.
+La imagen muestra una simulación donde se observa la relación entre voltaje (V), corriente (I) y resistencia (R), siguiendo la fórmula V = I · R.
