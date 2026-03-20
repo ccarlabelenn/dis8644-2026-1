@@ -81,3 +81,7 @@
 - Al quitar R3 baja la intensidad de D3 y aumenta la de D2 
 - Al quitar R5 sube la intensidad de D2 y baja un poco la de D3 y pasa exactamente lo mismo al quitar D6
 
+  #### Kraftwerk
+
+  #### LCD Soundsystem
+
