@@ -22,10 +22,12 @@ No importa si coloco la **resistencia** en el **positivo o el negativo**. La res
 
 **Capatitor/Condensador:** Electrolítico. Según gemini, Un capacitor o condensador es un componente electrónico pasivo que almacena energía eléctrica temporalmente en un campo eléctrico entre dos placas conductoras separadas por un material aislante (dieléctrico). Su función principal es almacenar carga para liberarla rápidamente, filtrar señales, suavizar voltajes y bloquear corriente continua.
 
-Capacitor polarizado, 50V max
+Capacitor polarizado, 50V max:
+
 ![capacitor](./imagenes/capacitor.jpeg)
 
-Capacitor cerámico, no polarizado
+Capacitor cerámico, no polarizado:
+
 ![condensador](./imagenes/condensador.webp)
 
 ### Topología
@@ -36,5 +38,10 @@ Capacitor cerámico, no polarizado
 
 * _**Pantalón igual a infinito:**_ La equivalencia de un pantalón (o cualquier figura con dos agujeros) con un "ocho" o el símbolo de infinito también se basa en la flexibilidad topológica.
 
-![dona](./imagenes/topologia.jpg)
+![dona](./imagenes/topoplogia.jpg)
 
+### Chip 555
+
+![chip](./imagenes/chip555.jpg)
+
+![chip](./imagenes/conexión-chip.jpg)
